@@ -38,7 +38,7 @@
     "sweetalert-react": "^0.4.11",
     "toastr": "^2.1.4",
     "underscore": "^1.9.1",
-    "validator": "^10.3.0"
+    "validator": "^13.7.0"
   },
   "scripts": {
     "start": "react-scripts start",
